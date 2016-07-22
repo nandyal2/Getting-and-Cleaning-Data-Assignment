@@ -16,10 +16,10 @@ This Repo contains the following files:
 
 1. README.md
 
-2. run_analysis.R
+2. run_analysis.R (Script that completes the above requirements)
 
-3. codebook.md
+3. codebook.md (Describes the variables)
 
-4. tidy.txt
+4. tidy.txt (End result)
 
 
